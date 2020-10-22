@@ -5,3 +5,5 @@
   * Check Build gradle(Module:app) --> minSdk Version (set to 22)
 
 * [Hide Action Bar and Status Bar](http://dog0416.blogspot.com/2018/04/android-hide-action-bar-and-status-bar.html, "Link") 
+
+* [Create tool bar](https://ithelp.ithome.com.tw/articles/10193384, "Link")
