@@ -1,4 +1,4 @@
-﻿# android_note
+﻿# Android Studio 4.1 Learning Note
 
 * [Apk signature verification fail](https://blog.csdn.net/hhyyqq/article/details/103180812, "Link")
   * Check Build gradle(Module:app) --> minSdk Version (set to 22)
