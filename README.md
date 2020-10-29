@@ -8,3 +8,5 @@
 
 * [Create tool bar_Kotlin](https://ithelp.ithome.com.tw/articles/10193384, "Link")
   * [Create tool bar Java](https://www.ruyut.com/2018/12/android-studio-menu.html?showComment=1603942292977#c5629104492918506818, "Link")
+  
+* [Create Notifications](https://developer.android.com/training/notify-user/build-notification, "Link")
